@@ -1,5 +1,5 @@
 {
-    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C14E6D5F5ED7D18D21C001478499FF14",
+    "spider":"http://39.103.212.40:2000/box/jar/spider_0920.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
